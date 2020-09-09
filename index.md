@@ -1,10 +1,11 @@
-## Welcome to my GitHub Page
+## Velkommen til min Github page
 
 Mit navn er Mathias Madsen, jeg er 20 år gammel.
-Jeg er student hos Zealand Næstved
+
+Jeg læser til datamatiker hos Zealand Næstved
 
 
- ```markdown
+```markdown
 public class Hello {
     public static void main(String[] args) {
 
@@ -14,23 +15,4 @@ public class Hello {
     }
 }
 
-```
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
