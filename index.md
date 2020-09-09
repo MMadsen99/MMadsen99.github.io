@@ -1,8 +1,19 @@
 ## Welcome to my GitHub Page
+
+Mit navn er Mathias Madsen, jeg er 20 år gammel.
+Jeg er student hos Zealand Næstved
+
+
  ```markdown
- `System.out.println("Mit navn er Mathias Madsen ");`
- `System.out.println("jeg er 20 år gammel ");`
- `System.out.println(" Jeg studerer på Zealand i Næstved ");`
+public class Hello {
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
+        System.out.println("Hello");
+        System.out.println("Mit navn er Mathias");
+    }
+}
+
 ```
 
 
